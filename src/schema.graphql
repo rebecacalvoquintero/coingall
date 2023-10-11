@@ -1,0 +1,7 @@
+type Query {
+  nfts: [Nft!]!
+}
+
+type Nft {
+ id: String!
+}

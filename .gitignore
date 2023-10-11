@@ -1,0 +1,23 @@
+
+# Dependencies
+node_modules/
+
+# Transpiled files
+build/
+
+# VS Code
+.vscode
+!.vscode/tasks.js
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Misc
+.DS_Store
+
+# dotenv environment variables file
+.env
+.env.test
